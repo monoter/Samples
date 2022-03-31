@@ -1,2 +1,2 @@
 # samples
-Samples repository
+Sample codes repository
